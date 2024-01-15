@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed RaOouf</h1>
 <h3 align="center">Web developer PHP Laravel</h3>
-<img align="right" alt="coding" width="600" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cdsr7jgt6t10o5n8p6sqntky9e099q4oyf8po1re&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cdsr7jgt6t10o5n8p6sqntky9e099q4oyf8po1re&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedraoouf&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraoouf" /> </p>
 
