@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed RaOouf</h1>
 <h3 align="center">Web developer PHP Laravel</h3>
-<img align="right" alt="coding" width="500" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cdsr7jgt6t10o5n8p6sqntky9e099q4oyf8po1re&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500" height="300" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cdsr7jgt6t10o5n8p6sqntky9e099q4oyf8po1re&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedraoouf&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraoouf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_raoouf" target="blank"><img src="https://img.shields.io/twitter/follow/_raoouf?logo=twitter&style=for-the-badge" alt="_raoouf" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -48,7 +47,7 @@
   </a>
   <br/>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
@@ -66,6 +65,7 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
